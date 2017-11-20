@@ -10,8 +10,6 @@ public class Main {
             System.out.println("例外が発生しました!!");
             System.out.println("代入されている文字列：" + e.getMessage());
 
-
-
         }
     }
 }
